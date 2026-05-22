@@ -1,0 +1,20 @@
+# Временные файлы Windows
+*.tmp
+*.temp
+
+# Файлы Office (временные)
+~$*
+
+# Файлы Visio
+*.vsd
+*.vsdx
+*.~vsd
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Файлы Visual Studio
+.vs/
+*.user
+*.suo
